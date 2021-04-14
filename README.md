@@ -25,4 +25,4 @@ Area currently under development
 Email: [slippuu@protonmail.com](mailto:slippuu@protonmail.com) or [callum.howell@gmail.com](mailto:callum.howell@gmail.com)
 
 ## CV
-[Looking for my dedicated CV?](https://github.com/slippuu/slippuu.github.io/raw/5ed66955f483d61ba632c3f776d454a2dd551839/CV.pdf)
+[Looking for my dedicated CV?](https://github.com/slippuu/slippuu.github.io/blob/main/CV.pdf?raw=true)
