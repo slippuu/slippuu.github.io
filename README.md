@@ -19,7 +19,7 @@
 * AngularCLI
 
 ## Projects
-Area currently under development
+[Django - Image Upload and Share Example](https://github.com/slippuu/django-example-imageshare)
 
 ## Contact
 Email: [slippuu@protonmail.com](mailto:slippuu@protonmail.com) or [callum.howell@gmail.com](mailto:callum.howell@gmail.com)
