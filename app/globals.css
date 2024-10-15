@@ -1,0 +1,19 @@
+body, html {
+  margin:0;
+  padding:0;
+}
+body {
+  background:#343434;
+  color:#fefefe;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container img {
+  border-radius:50%;
+  filter: grayscale(100%);
+}
