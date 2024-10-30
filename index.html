@@ -3,14 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>slippuu</title>
+    <title>Callum Howell</title>
     <link rel="stylesheet" href="css.css">
-    <link rel="stylesheet" href="icofont.min.css">
     <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
 </head>
 <body>
-    <!-- Debug Info -->
-    <span id="dimensions" style="position:fixed;background:rgba(25,25,25,0.5);padding:4px;"></span>
     <nav>
         <ul>
             <li>
@@ -38,18 +35,18 @@
                 </a>
             </li>
         </ul>
-    </nav> <!-- Navigation - Topbar on Desktop, Bottombar on Mobile -->
+    </nav>
     <div class="container">
         <section id="welcome">
             <img src="s1.jpg" alt="A picture of me, Callum Howell"/>
             <h1>Hey, I'm Callum Howell. I'm a Web Developer and Software Engineer based in London, UK</h1>
-        </section> <!-- Welcome -->
+        </section>
         <section id="about">
             <h1>I mainly specialise in frontend design for websites, using the MERN stack. Outside of web design, I code in Python and VBA, currently being employed as a full-time VBA Developer.</h1>
-        </section> <!-- About Me -->
+        </section>
         <section id="portfolio">
             <h1>Portfolio currently being populated. Stay tuned!</h1>
-        </section> <!-- Portfolio -->
+        </section>
         <section id="contact">
             <div>
                 <a href="#">
@@ -66,19 +63,8 @@
                     <img src="github.svg">
                 </a>
             </div>
-        </section> <!-- Contact -->
+        </section>
     </div>
 <script src="js.js"></script>
-<script>
-    window.onresize = displayWindowSize;
-    window.onload = displayWindowSize;
-
-    function displayWindowSize() {
-        myWidth = window.innerWidth;
-        myHeight = window.innerHeight;
-        // your size calculation code here
-        document.getElementById("dimensions").innerHTML = myWidth + "x" + myHeight;
-    };
-</script>
 </body>
 </html>
